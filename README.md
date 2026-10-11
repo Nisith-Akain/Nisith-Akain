@@ -95,11 +95,11 @@ Currently focused on VEX robotics, AI-agent workflows, and connecting language m
 <sub><code>RECENT COMMITS</code></sub>
 
 <!-- COMMITS:START -->
+<code>2026-10-10</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/c2d3bbb760ac8e8948127bf6ecf88df374723c35">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
 <code>2026-10-10</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/c9bcd3b7fada89dc7def1bbb25c8b55231e7f92c">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
 <code>2026-10-10</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/d7a4be875cd1b7a1bde6a94ac4c2480082673f6e">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
 <code>2026-10-09</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/77ea293f84c8d6efb8712290e8eb1ef38b79894e">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
 <code>2026-10-09</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/9b66e7825c0163c02796d41a961a8ff90bcdd2c1">Add profile README</a> &nbsp;<sub>Nisith-Akain</sub><br>
-<code>2026-09-29</code> &nbsp; <a href="https://github.com/Nisith-Akain/NisithAkain-Studio/commit/bc560a19a2224415c76b218ec9209a83e0a2d681">Remove GitHub stats from the site</a> &nbsp;<sub>NisithAkain-Studio</sub><br>
 <!-- COMMITS:END -->
 
 </div>
