@@ -67,25 +67,25 @@ Currently focused on VEX robotics, AI-agent workflows, and connecting language m
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Nisith-Akain/NisithAkain-Studio">
-        <img width="100%" alt="NisithAkain-Studio" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=NisithAkain-Studio&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
+      <a href="https://github.com/Nisith-Akain/STEM">
+        <img width="100%" alt="STEM" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=STEM&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Nisith-Akain/Astronomy">
-        <img width="100%" alt="Astronomy" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=Astronomy&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
+      <a href="https://github.com/Nisith-Akain/Esp32-Catalog">
+        <img width="100%" alt="Esp32-Catalog" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=Esp32-Catalog&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/Nisith-Akain/ESP32-Control">
-        <img width="100%" alt="ESP32-Control" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=ESP32-Control&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
+      <a href="https://github.com/Nisith-Akain/Arduino-Components">
+        <img width="100%" alt="Arduino-Components" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=Arduino-Components&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Nisith-Akain/Arduino-Components">
-        <img width="100%" alt="Arduino-Components" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=Arduino-Components&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
+      <a href="https://github.com/Nisith-Akain/ESP32-Control">
+        <img width="100%" alt="ESP32-Control" src="https://github-readme-stats.vercel.app/api/pin/?username=Nisith-Akain&repo=ESP32-Control&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=22d3ee">
       </a>
     </td>
   </tr>
@@ -95,11 +95,11 @@ Currently focused on VEX robotics, AI-agent workflows, and connecting language m
 <sub><code>RECENT COMMITS</code></sub>
 
 <!-- COMMITS:START -->
-<code>2026-11-24</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/7b481d28db88235e69f3e2d790ddaffac7ceb351">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
-<code>2026-11-24</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/494d418775d077c1643802252cd37f9f7a10a0e5">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
-<code>2026-11-23</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/42cbe0e35887f5bb6f4bf94ccbe897b7594156e5">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
-<code>2026-11-23</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/6c66348fc878a96b7c771f5fdc754e631b0956a0">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
-<code>2026-11-22</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/bf4f51613d1df772d444fc1cd3a6f3a029d0ead7">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/STEM/commit/6b5a94732f6ae9555faaa461e9ed86c752b5625b">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>STEM</sub><br>
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/Esp32-Catalog/commit/896a7416f8b8885e89945465d0d84620a4e7368c">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>Esp32-Catalog</sub><br>
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/Arduino-Components/commit/44212a5fd6a01692c612efad08afc682009e008d">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>Arduino-Components</sub><br>
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/ESP32-Control/commit/533349a7aa54ac51c7bdb9cd3f41d90d127fa121">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>ESP32-Control</sub><br>
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/NisithAkain-Studio/commit/93873c02a7d91148a3e117d56ff30ccd05a7c8d1">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>NisithAkain-Studio</sub><br>
 <!-- COMMITS:END -->
 
 </div>
