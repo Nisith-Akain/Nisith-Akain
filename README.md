@@ -95,11 +95,11 @@ Currently focused on VEX robotics, AI-agent workflows, and connecting language m
 <sub><code>RECENT COMMITS</code></sub>
 
 <!-- COMMITS:START -->
+<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/Nisith-Akain/commit/cfc33b9456d016245718caf64eddad7434145eae">Update featured repos and recent commits</a> &nbsp;<sub>Nisith-Akain</sub><br>
 <code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/STEM/commit/6b5a94732f6ae9555faaa461e9ed86c752b5625b">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>STEM</sub><br>
 <code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/Esp32-Catalog/commit/896a7416f8b8885e89945465d0d84620a4e7368c">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>Esp32-Catalog</sub><br>
 <code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/Arduino-Components/commit/44212a5fd6a01692c612efad08afc682009e008d">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>Arduino-Components</sub><br>
 <code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/ESP32-Control/commit/533349a7aa54ac51c7bdb9cd3f41d90d127fa121">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>ESP32-Control</sub><br>
-<code>2026-11-25</code> &nbsp; <a href="https://github.com/Nisith-Akain/NisithAkain-Studio/commit/93873c02a7d91148a3e117d56ff30ccd05a7c8d1">Add pixel logo, animated banner and refreshed README</a> &nbsp;<sub>NisithAkain-Studio</sub><br>
 <!-- COMMITS:END -->
 
 </div>
