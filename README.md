@@ -20,6 +20,13 @@ Currently focused on VEX robotics, AI-agent workflows, and connecting language m
 
 <br>
 
+<!-- ============ PIXEL CODER ============ -->
+<div align="center">
+  <img src="assets/pixel-coder.svg" alt="Pixel coder coding while day and night cycle" width="100%">
+</div>
+
+<br>
+
 <!-- ============ TECH STACK ============ -->
 <div align="center">
 
