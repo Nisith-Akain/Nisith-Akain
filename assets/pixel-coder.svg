@@ -2,9 +2,9 @@
 <title>Pixel coder at work, day and night cycling</title>
 <style>
   .a{animation-iteration-count:infinite;animation-timing-function:linear}
-  .cy{animation-duration:24s}
+  .cy{animation-duration:16s}
 
-  /* ---------- day / night cycle (24s loop) ---------- */
+  /* ---------- day / night cycle (16s loop) ---------- */
   @keyframes sky{0%{fill:#f6a97a}10%{fill:#7ec8ff}40%{fill:#5db4f5}50%{fill:#f08a5d}58%{fill:#4a2f6b}66%{fill:#0b1030}92%{fill:#0b1030}100%{fill:#f6a97a}}
   .sky{animation-name:sky}
 
